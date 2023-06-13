@@ -22,7 +22,7 @@ I am currently focusing on my computer engineering courses at Dokuz Eylül Unive
 
 ## 📫 How to Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your_username)
+[<img src="https://github.com/your_username/your_username/blob/main/linkedin_icon.png" width="24" align="left">](https://www.linkedin.com/in/your_username)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://z-p15.www.instagram.com/theyasinsahin/)
 
 If you'd like to get in touch with me regarding any matter, feel free to reach out to me through the LinkedIn and Twitter links above.
