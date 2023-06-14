@@ -1,6 +1,6 @@
 # Hello, I'm Yasin Şahin! 👋
 
-![Profile Image](https://github.com/theyasinsahin/theyasinsahin/blob/main/AI.png)
+![Profile Image](https://github.com/theyasinsahin/theyasinsahin/blob/main/profile_picture.png)
 
 I'm a first-year computer engineering student studying at Dokuz Eylül University. With an entrepreneurial spirit, I aim to develop my skills in coding, particularly in the fields of cybersecurity and artificial intelligence.
 
