@@ -6,8 +6,8 @@ I'm a first-year computer engineering student studying at Dokuz Eylül Universit
 
 - **Programming Languages:** C, Kotlin, Python
 - **Web Development:** HTML, CSS
-- **Databases:** 
-- **Cybersecurity:** 
+- **Databases:** SQLite
+- **Cybersecurity:** Linux
 - **Artificial Intelligence:** 
 
 ## 💡 My Projects
