@@ -1,12 +1,12 @@
 # Hello, I'm Yasin Şahin! 👋
 
-I'm a first-year computer engineering student studying at Dokuz Eylül University. With an entrepreneurial spirit, I aim to develop my skills in coding, particularly in the fields of cybersecurity and artificial intelligence.
+I'm a first-year computer engineering student studying at Dokuz Eylül University. With an entrepreneurial spirit, I aim to develop my skills in coding, particularly in the fields of Backend Development and artificial intelligence.
 
 ## 🚀 Skills
 
-- **Programming Languages:** C, Kotlin, Python, C#
-- **Web Development:** HTML, CSS, Django
-- **Databases:** SQLite
+- **Programming Languages:** C, Kotlin, Python, C#, Java, Javascript
+- **Web Development:** HTML, CSS, Python(Django), Javascript(Node.js)
+- **Databases:** OracleSQL
 - **Cybersecurity:** Linux/Kali
 - **Artificial Intelligence:** 
 
@@ -16,7 +16,7 @@ I'm a first-year computer engineering student studying at Dokuz Eylül Universit
 
 ## 🌱 What I'm Currently Working On
 
-I am currently focusing on my computer engineering courses at Dokuz Eylül University. Additionally, I'm exploring various online resources to enhance my knowledge in cybersecurity and artificial intelligence.
+I am currently focusing on my computer engineering courses at Dokuz Eylül University. Additionally, I'm exploring various online resources to enhance my knowledge in create a website from zero to everything and artificial intelligence.
 
 ## 📫 How to Reach Me
 
