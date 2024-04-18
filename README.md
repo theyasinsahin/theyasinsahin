@@ -28,4 +28,4 @@ If you'd like to get in touch with me regarding any matter, feel free to reach o
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=theyasinsahin&show_icons=true&theme=radical) <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theyasinsahin&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theyasinsahin&layout=donut&hide=python,javascript,css)](https://github.com/anuraghazra/github-readme-stats)
