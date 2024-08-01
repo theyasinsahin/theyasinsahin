@@ -5,8 +5,9 @@ I'm a first-year computer engineering student studying at Dokuz Eylül Universit
 ## 🚀 Skills
 
 - **Programming Languages:** C, Kotlin, Python, C#, Java, Javascript
-- **Web Development:** HTML, CSS, Python(Django), Javascript, React
-- **Backend:** Javascript(Node.js)
+- **Web Development**
+  - **Frontend** HTML, CSS, Javascript, React
+  - **Backend:** Javascript(Node.js), Python(Django)
 - **Databases:** MySQL
 - **Cybersecurity:** Linux/Kali
 - **Artificial Intelligence:** 
