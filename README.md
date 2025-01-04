@@ -1,6 +1,6 @@
 # Hello, I'm Yasin Şahin! 👋
 
-I'm a first-year computer engineering student studying at Dokuz Eylül University. With an entrepreneurial spirit, I aim to develop my skills in coding, particularly in the fields of Backend Development and artificial intelligence.
+I'm a second-year computer engineering student studying at Dokuz Eylül University. With an entrepreneurial spirit, I aim to develop my skills in coding, particularly in the fields of Backend Development and artificial intelligence.
 
 ## 🚀 Skills
 
