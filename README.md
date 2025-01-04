@@ -8,7 +8,7 @@ I'm a first-year computer engineering student studying at Dokuz Eylül Universit
 - **Web Development**
   - **Frontend** HTML, CSS, Javascript, React
   - **Backend:** Javascript(Node.js), Python(Django)
-- **Databases:** MySQL
+- **Databases:** MySQL, MongoDB
 - **Cybersecurity:** Linux/Kali
 - **Artificial Intelligence:** 
 
